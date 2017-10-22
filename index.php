@@ -46,7 +46,8 @@ abstract class page {
 		href="style.css"/>';
 		$this->html .='<body>';
 				
-		//get and print html table		}
+		//get and print html table		
+		}
 	public function __destruct() {
 	
 		$this->html .= '</body></html>';
